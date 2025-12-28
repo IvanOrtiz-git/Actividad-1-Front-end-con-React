@@ -8,7 +8,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/81rEWmLXliL._AC_UF894,1000_QL80_.jpg",
         author: "Gabriel García Márquez",
         year: 1967,
-        price: 19.9
+        price: 19.90
     },
     {
         id: 2,
@@ -19,7 +19,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/71sOSrd+JxL._SY342_.jpg",
         author: "George Orwell",
         year: 1949,
-        price: 19.9
+        price: 22.40
     },
     {
         id: 3,
@@ -30,7 +30,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/51b7oAUXFlL._SY445_SX342_ControlCacheEqualizer_.jpg",
         author: "Jane Austen",
         year: 1813,
-        price: 19.9
+        price: 25.60
     },
     {
         id: 4,
@@ -41,7 +41,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/71DrZIXLoVL._SY342_.jpg",
         author: "Antoine de Saint-Exupéry",
         year: 1943,
-        price: 19.9
+        price: 15.30
     },
     {
         id: 5,
@@ -52,7 +52,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/718O4kqR49L._SY342_.jpg",
         author: "Miguel de Cervantes",
         year: 1605,
-        price: 19.9
+        price: 22.35
     },
     {
         id: 6,
@@ -63,7 +63,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/417o-D1Z3dL._SX342_SY445_ControlCacheEqualizer_.jpg",
         author: "Fiódor Dostoyevski",
         year: 1866,
-        price: 19.9
+        price: 24.11
     },
     {
         id: 7,
@@ -74,7 +74,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/51nXqM-jKuL._SY445_SX342_ControlCacheEqualizer_.jpg",
         author: "J.R.R. Tolkien",
         year: 1937,
-        price: 19.9
+        price: 12.32
     },
     {
         id: 8,
@@ -85,7 +85,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/41inJaFSDlL._SY445_SX342_ControlCacheEqualizer_.jpg",
         author: "Carlos Ruiz Zafón",
         year: 2001,
-        price: 19.9
+        price: 11.5
     },
     {
         id: 9,
@@ -96,7 +96,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/41PSvqPz6dL._SY445_SX342_ControlCacheEqualizer_.jpg",
         author: "Ray Bradbury",
         year: 1953,
-        price: 19.9
+        price: 22.45
     },
     {
         id: 10,
@@ -107,7 +107,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/61g5pbNVv6L._SY342_.jpg",
         author: "Harper Lee",
         year: 1960,
-        price: 19.9
+        price: 25.60
     },
     {
         id: 11,
@@ -118,7 +118,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/712MNUtsiAL._SY342_.jpg",
         author: "F. Scott Fitzgerald",
         year: 1925,
-        price: 19.9
+        price: 21.10
     },
     {
         id: 12,
@@ -129,7 +129,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/71ZR4nZtxUL._SY342_.jpg",
         author: "León Tolstói",
         year: 1877,
-        price: 19.9
+        price: 18.90
     },
     {
         id: 13,
@@ -140,7 +140,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/71UBPNAvmAL._SY342_.jpg",
         author: "J.K. Rowling",
         year: 1997,
-        price: 19.9
+        price: 23.10
     },
     {
         id: 14,
@@ -151,7 +151,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/61XYEymwbGL._SY342_.jpg",
         author: "Dan Brown",
         year: 2003,
-        price: 19.9
+        price: 16.70
     },
     {
         id: 15,
@@ -173,7 +173,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/71MNmGN8j3L._SY342_.jpg",
         author: "Dante Alighieri",
         year: 1320,
-        price: 19.9
+        price: 24.50
     },
     {
         id: 17,
@@ -184,7 +184,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/81LyjYFzANL._SY342_.jpg",
         author: "Bram Stoker",
         year: 1897,
-        price: 19.9
+        price: 12.50
     },
     {
         id: 18,
@@ -195,7 +195,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/61mJu7qJtML._SY342_.jpg",
         author: "Oscar Wilde",
         year: 1890,
-        price: 19.9
+        price: 18.90
     },
     {
         id: 19,
@@ -206,7 +206,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/612NA7i9u8L._SL1500_.jpg",
         author: "Franz Kafka",
         year: 1915,
-        price: 19.9
+        price: 24.90
     },
     {
         id: 20,
@@ -217,7 +217,7 @@ export const booksList = [
         image: "https://m.media-amazon.com/images/I/91-Ng+j1VML._SL1500_.jpg",
         author: "J.R.R. Tolkien",
         year: 1954,
-        price: 19.9
+        price: 21.90
     }
 ]
 
