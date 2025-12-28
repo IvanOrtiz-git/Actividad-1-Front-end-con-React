@@ -179,7 +179,9 @@ footer {
     grid-template-columns: 1fr;
   }
 }
-
+.agregar-button {
+  cursor: pointer;
+}
 .agregar-button:hover {
   background-color: #FFB162;
   color: #1B2632;
