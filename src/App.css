@@ -16,7 +16,7 @@ footer {
 /* Página inicial */
 
 .fondo {
-  background-image: url("./public/Fondo.jpg");
+  background-image: url("/Fondo.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
