@@ -22,7 +22,7 @@ const MostrarDetalles = () => {
                 <p>Rating: {libro.rating}</p>
                 <p>Precio: {libro.price} €</p>
                 <p>Sinopsis: {libro.synopsis}</p>
-                <button onClick={() => añadirCarrito(libro)}>Agregar al carrito</button>
+                <button className='agregar-button' onClick={() => añadirCarrito(libro)}>Agregar al carrito</button>
             </div>
         </div>
     );
