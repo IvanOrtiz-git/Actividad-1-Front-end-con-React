@@ -299,6 +299,7 @@ footer {
 
 .contenedor-checkout {
   background-color: #C9C1B1;
+  min-height: calc(100vh - 300px);
   height: auto;
   margin: 0;
   font-size: 20px;
