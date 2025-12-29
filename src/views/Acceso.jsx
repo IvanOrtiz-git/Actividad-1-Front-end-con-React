@@ -11,7 +11,7 @@ const Acceso = () => {
         }, 5000);
 
         return () => clearTimeout(timer);
-    }, [navigate]);
+    }, []);
 
     
     return (
