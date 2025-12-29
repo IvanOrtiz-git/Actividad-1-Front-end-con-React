@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./views/Home";
+import Acceso from "./views/Acceso";
 import Principal from "./views/Principal";
 import BookDetails from "./views/BookDetails";
 import Checkout from './views/Checkout';
@@ -14,7 +14,7 @@ function App() {
       <GlobalProvider>
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Acceso />} />
           <Route path="/store" element={<Principal />} />
           <Route path="/store/libro/:id" element={<BookDetails />} />
           <Route path="/store/checkout" element={<Checkout />} />
